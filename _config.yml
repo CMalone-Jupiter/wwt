@@ -10,4 +10,3 @@ defaults:
         type: "pages"
       values:
         layout: "default"
-timezone: Australia/Brisbane
